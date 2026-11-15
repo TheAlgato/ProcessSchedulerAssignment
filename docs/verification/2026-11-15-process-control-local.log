@@ -1,0 +1,12 @@
+test_other_account_and_zombie_processes_are_blocked (test_process_control.ProcessControlTests.test_other_account_and_zombie_processes_are_blocked) ... ok
+test_permission_and_exit_errors_have_actionable_messages (test_process_control.ProcessControlTests.test_permission_and_exit_errors_have_actionable_messages) ... ok
+test_protects_dashboard_ancestors_and_system_pids (test_process_control.ProcessControlTests.test_protects_dashboard_ancestors_and_system_pids) ... ok
+test_real_disposable_child_can_be_suspended_resumed_and_terminated (test_process_control.ProcessControlTests.test_real_disposable_child_can_be_suspended_resumed_and_terminated) ... ok
+test_rejects_unknown_actions_and_invalid_identities (test_process_control.ProcessControlTests.test_rejects_unknown_actions_and_invalid_identities) ... ok
+test_sends_only_the_requested_action (test_process_control.ProcessControlTests.test_sends_only_the_requested_action) ... ok
+test_stale_pid_is_never_signalled (test_process_control.ProcessControlTests.test_stale_pid_is_never_signalled) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.008s
+
+OK
